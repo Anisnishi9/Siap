@@ -1,0 +1,32 @@
+table, td, th, tr{  
+	border: 1px solid #ddd;
+	text-align: center;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+th, td {
+	padding: 8px;
+}
+
+tr {
+	background-color: #f2f2f2;
+	border: 1px solid #ddd;
+	opacity: 0.8;
+	color: black;
+}
+
+td{
+	background-color: #f2f2f2;
+	border: 1px solid #ddd;
+	opacity: 0.8;
+	color: black;
+}
+
+th {
+	background-color: #005582;
+	color: white;
+}
